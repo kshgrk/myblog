@@ -2,17 +2,14 @@
 layout: post
 title:  "Why Arch BTW ?"
 author: Kushagra
-categories: [ Linux, argument ]
+categories: [ Linux, Argument ]
 tags: [Arch Linux, Debian Linux]
 image: https://i.imgur.com/KgsMhEe.png
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Why you should consider Arch-based distro over Debian-based distro" 
 featured: true
 hidden: true
 rating: 4.5
 ---
-[preview](https://i.imgur.com/KgsMhEe.png)
-Why Arch based distros instead of Debian based
-
 This is just a short article which gives a brief overview of the
 differences between debain and arch based distros and why you should
 consider arch if you are planning to use linux for some time.
@@ -40,10 +37,10 @@ Arch User Repository (AUR). It vastly expands the number of packages
 that you can install directly on your machine without needing to compile
 from other versions control systems. There are almost three times as
 many packages in AUR as there are in apt (the official package manager
-of Debian). The link to official AUR home page is this
-<https://aur.archlinux.org/> . The statistics about AUR itself tells
+of Debian). The link to official AUR home page is [this]. The statistics about AUR itself tells
 about the vastness of it.
-![Imgur](https://i.imgur.com/jL7SSOA.png)
+
+![stats](https://i.imgur.com/jL7SSOA.png)
 
 AUR packages are community maintained with a vast active community.The
 idea was to host different developers\' software and packages on a
@@ -64,7 +61,7 @@ learn arch based OS and take advantage of its best features.
 
 Arch wiki is one of the best things arch has to offer, almost any
 problem can be solved by just consulting archwiki. It is well documented
-and the official page is here <https://wiki.archlinux.org/> . While
+and the official page is [here]. While
 debian focuses on stability, arch allows users to experiment as they
 wish. Some may say learning arch takes too long and one should stick to
 debian instead. However, I disagree, since the learning curve is steep
@@ -81,11 +78,15 @@ and Linux Mint but there's only single constantly updated version of
 Arch. Latest Ubuntu uses the 5.8 kernel version at the time of this
 writing, whereas Arch uses the 5.14 kernel version. Thus, you will
 always be up to date with new features.
-<img src="https://i.imgur.com/AlNXuDa.png">
+
 ![debian](https://i.imgur.com/AlNXuDa.png)
+
 fig-1
+
 ![arch](https://i.imgur.com/SRuu4DS.png)
+
 fig-2
+
 The downside is that rolling releases may crash your software or even
 prevent your system from booting up. In that case, you may need to
 downgrade to a lower version and wait until the bug is fixed. But don't
@@ -99,3 +100,6 @@ Debian or Arch, nixOS, artix, or Gentoo. There are literally dozens of
 options out there. Try whichever you like. At last linux is full of
 learning opportunities, you'll get to know your machine better, you'll
 learn about it in more deepth, you'll get a sense of actually owning it.
+
+[this]: https://aur.archlinux.org/
+[here]: https://wiki.archlinux.org/

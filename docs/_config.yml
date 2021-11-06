@@ -1,9 +1,9 @@
 # Site
 name: "Kushagra Kaushal"
 title: "Kushagra"
-description: "to be added"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "ML, Data Science and Linux enthusiast"
+logo: 'favicon.ico'
+favicon: 'favicon.ico'
 baseurl: /myblog
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
@@ -20,7 +20,7 @@ authors:
     email: kushagra9nov@gmail.com
     web: https://kshgrk.github.io/global 
     twitter: https://twitter.com/k_UGH_shagra
-    description: "to be added"
+    description: "ML, Data Science and Linux enthusiast"
 
 # Plugins
 plugins:
