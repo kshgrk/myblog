@@ -1,5 +1,5 @@
 # Site
-name: "Kushagra"
+name: "Kushagra Kaushal"
 title: "Kushagra"
 description: "to be added"
 logo: 'assets/images/logo.png'
@@ -14,11 +14,11 @@ permalink: /:title/
 # Authors
 authors:
   Kushagra:
-    name: Kushagra
+    name: Kushagra Kaushal
     display_name: Kushagra
     gravatar: e5615546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: kushagra9nov@gmail.com
+    web: https://kshgrk.github.io/global 
     twitter: https://twitter.com/k_UGH_shagra
     description: "to be added"
 
